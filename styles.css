@@ -1,0 +1,14 @@
+h1 {
+  color: pink;
+  text-align: center;
+}
+ul {
+  width: fit-content;
+  margin: auto;
+  text-align: center;
+}
+li {
+  display: flex;
+  flex-direction: column;
+  margin: 4vh;
+}
