@@ -1,7 +1,8 @@
 h1 {
   color: pink;
-  background-color: aqua;
+  background-color: rgba(0, 255, 255, 0.35);
   text-align: center;
+  margin: -1vh;
 }
 ul {
   width: fit-content;
