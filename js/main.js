@@ -1,4 +1,3 @@
-// Fonction pour récupérer les données depuis l'API
 function fetchCinemas() {
   return new Promise((resolve, reject) => {
     const xhr = new XMLHttpRequest();
